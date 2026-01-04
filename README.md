@@ -1,8 +1,8 @@
 # DemoBlaze Cucumber BDD Automation Framework
 
-A clean, interview-ready **Cucumber BDD automation framework** built with **Selenium, Java, and TestNG**, following **Page Object Model (POM)** and automation best practices.
+ **Cucumber BDD automation framework** built with **Selenium, Java, and TestNG**, following **Page Object Model (POM)** and automation best practices.
 
-This project focuses on **maintainability**, **readability**, and **proper separation of concerns**.
+
 
 ---
 
