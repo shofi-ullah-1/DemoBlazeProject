@@ -127,6 +127,6 @@ This repository demonstrates **real-world automation standards** and is suitable
 
 ## 👤 Author
 
-**Fawaz**  
+**Shofi Ullah**  
 QA Automation Engineer  
 Focused on clean automation architecture and maintainable test frameworks.
